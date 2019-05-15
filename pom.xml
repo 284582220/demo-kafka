@@ -244,7 +244,7 @@
                     <archive>
                         <!-- 程序入口，即main函数 -->
                         <manifest>
-                            <mainClass>com.ygj.Main</mainClass>
+                            <mainClass>com.ygj.CounsumerMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
